@@ -24,6 +24,10 @@ XWayland, with all its dependencies
 Mesa, modded
 gobject-introspection
 Extra xorg libs... tge ones thaat are supplementary to T:X11
-Alsa-lib
+Alsa-lib.... with static libs
+Alsa-plugins.... with static libs
+Alsa-utils
+Qemu, with spice support
+Spice-server and spice-protocol
 ```
 
