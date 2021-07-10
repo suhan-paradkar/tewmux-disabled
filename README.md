@@ -25,7 +25,7 @@ Mesa, modded
 gobject-introspection
 gl4es
 modded util-linux, to include libmount support
-Extra xorg libs... the ones thaat are supplementary to T:X11
+Extra xorg libs... the ones that are supplementary to T:X11
 Alsa-lib.... with static libs
 Alsa-plugins.... with static libs
 Alsa-utils
