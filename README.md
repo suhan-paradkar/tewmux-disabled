@@ -31,6 +31,8 @@ Alsa-plugins.... with static libs
 Alsa-utils
 Qemu, with spice support
 Spice-server and spice-protocol
+Gradle
+Groovy
 ```
 
 # Build
