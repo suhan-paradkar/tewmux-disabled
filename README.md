@@ -10,9 +10,9 @@ Currently hosted by @leapofazzam123 and @yisus7u7
 For example.. to install xwayland....
 
 ```
-wget https://github.com/suhan-paradkar/xwayland4tewmux/releases/download/xwayland/libwayland-protocols_1.17-4_$(dpkg --print-architecture).deb
-wget https://github.com/suhan-paradkar/xwayland4tewmux/releases/download/xwayland/libwayland_1.19.0_$(dpkg --print-architecture).deb
-wget https://github.com/suhan-paradkar/xwayland4tewmux/releases/download/xwayland/xwayland_1.20.5-6_$(dpkg --print-architecture).deb
+wget https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland-protocols_1.17-4_$(dpkg --print-architecture).deb
+wget https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland_1.19.0_$(dpkg --print-architecture).deb
+wget https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/xwayland_1.20.5-6_$(dpkg --print-architecture).deb
 pkg in ./libwayland-protocols_1.17-4_$(dpkg --print-architecture).deb ./libwayland_1.19.0_$(dpkg --print-architecture).deb ./xwayland_1.20.5-6_$(dpkg --print-architecture).deb
 ```
 # Available packages
