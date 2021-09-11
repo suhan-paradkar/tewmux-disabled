@@ -33,6 +33,7 @@ Qemu, with spice support
 Spice-server and spice-protocol
 Gradle
 Groovy
+Nodejs (Available versions: 16.6.1)
 ```
 
 # Build
@@ -40,3 +41,4 @@ Groovy
 You wanna build it yourself?? The config files are here....
 http://github.com/suhan-paradkar/my-tewmux-build-config
 
+Patches of some of the debs are released along with the debs in release
