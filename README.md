@@ -33,7 +33,7 @@ Qemu, with spice support
 Spice-server and spice-protocol
 Gradle
 Groovy
-Nodejs (Available versions: 16.6.1)
+Nodejs (Available versions: 16.6.1, 16.9.1)
 ```
 
 # Build
